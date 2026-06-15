@@ -17,10 +17,10 @@ Orientador: Prof. Me. Ricardo Carubbi
 
 ## Integrantes do grupo
 
-- _(preencher: Vinni Lorenzo Gomes)_
-- _(preencher: Igor Romero Guerra)_
-- _(preencher: João Gabriel Leite Borges)
-- _(preencher: Pedro Maia Araujo Costa)
+-  Vinni Lorenzo Gomes
+-  Igor Romero Guerra
+-  João Gabriel Leite Borges
+-  Pedro Maia Araujo Costa
 
 ## Linguagem utilizada
 
